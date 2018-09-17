@@ -9,5 +9,5 @@ Utilidad para extraer el AS de una IP
 # ip2pais
 Utilidad para ver el pais de una IP
 
-#traceasn
-traceroute con el nombre extendido de la operadora de cada salto BGP
+# traceasn
+traceroute con el nombre extendido de la operadora del AS en cada salto 

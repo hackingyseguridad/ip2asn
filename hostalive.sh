@@ -1,4 +1,6 @@
 #!/bin/bash
+# Archivo ip.txt con las IP para test respuesta ICMP
+#
 for n in `cat ip.txt`
 do
 

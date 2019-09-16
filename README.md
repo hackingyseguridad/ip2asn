@@ -1,6 +1,9 @@
 # asn2ip
 Utilidad para extraer las IP correspondientes a un AS
 
+# whois2ip
+Utilidad para extraer las IP corredpondientes a un AS de Whois
+
 # ip2asn
 Utilidad para extraer el AS de una IP
 

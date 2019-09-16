@@ -1,6 +1,14 @@
 #!/bin/bash
 # Muestra los rangos IP de un AS 
 # (c) hackingyseguridad.com 2019
+# whois IP
+# whois -i mnt-by MAINT-AS3352
+# -i admin-c [NIC-handle o persona]
+# -i person [NIC-handle o persona]
+# -i nssever [Dominio o prefijo de dirección o rango o una única dirección]
+# -i sub-dom [Dominio]
+# -i upd-to [Correo electrónico]
+# -i locl-as [Número sistema autónomo]
 # Uso: ./whois2ip
 echo Uso: ./whois2ip
 echo

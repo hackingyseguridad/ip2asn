@@ -1,0 +1,7 @@
+#!/bin/bash
+# Muestra los rangos IP de un AS 
+# (c) hackingyseguridad.com 2019
+# Uso: ./whois2ip
+echo Uso: ./whois2ip
+echo
+whois -i mnt-by MAINT-AS3352 | grep inetnum | awk -F\: '{ print $2 }'
